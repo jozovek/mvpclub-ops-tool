@@ -70,6 +70,10 @@ This is the tool I built to run my own business — and it's a demonstration of 
 
 It's also proof of concept for what non-technical founders can build with AI. The signal detector, the content pipeline, the newsletter automation — these are the kinds of systems I help clients design and deploy.
 
+### A note on how I build
+
+I can take a tool like this from zero to a strong, usable MVP — functional enough that our 3-person founding team runs our entire operation on it daily. But I'm not a software engineer. For anything that needs to be production-grade, external-facing, or handling scale, I pair with a developer to make sure the architecture, security, and reliability are where they need to be. That's the model I recommend to clients too: use AI to build fast, get to a working prototype quickly, then bring in engineering support to harden it for production.
+
 ---
 
 ## Status
