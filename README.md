@@ -1,6 +1,6 @@
 # 🛠️ MVP Club Platform
 
-**A unified marketing, sales, and ops platform for a 130+ member AI community**
+**A unified marketing, sales, and ops platform for a robust member AI community**
 
 Built by MVP Club's 3 co-founders (Jill, Matt, Ryan). React + Express + Cloud SQL PostgreSQL, deployed on Google Cloud Run.
 
